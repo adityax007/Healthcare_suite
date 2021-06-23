@@ -7,3 +7,4 @@ Healthcare Management Suite (Spring, Hibernate, salt encryption, JSP)
                   of special characters, search results restrictions in access according to user level etc. which ensured reliability 
                   and proper working of the application
 
+[Sequence Diagram]()
